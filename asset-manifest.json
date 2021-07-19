@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Anushree-me20b030/static/css/main.6a164508.chunk.css",
+    "main.js": "/Anushree-me20b030/static/js/main.32bb38d9.chunk.js",
+    "main.js.map": "/Anushree-me20b030/static/js/main.32bb38d9.chunk.js.map",
+    "runtime-main.js": "/Anushree-me20b030/static/js/runtime-main.4c77c94e.js",
+    "runtime-main.js.map": "/Anushree-me20b030/static/js/runtime-main.4c77c94e.js.map",
+    "static/js/2.ce9b4bd8.chunk.js": "/Anushree-me20b030/static/js/2.ce9b4bd8.chunk.js",
+    "static/js/2.ce9b4bd8.chunk.js.map": "/Anushree-me20b030/static/js/2.ce9b4bd8.chunk.js.map",
+    "index.html": "/Anushree-me20b030/index.html",
+    "static/css/main.6a164508.chunk.css.map": "/Anushree-me20b030/static/css/main.6a164508.chunk.css.map",
+    "static/js/2.ce9b4bd8.chunk.js.LICENSE.txt": "/Anushree-me20b030/static/js/2.ce9b4bd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c77c94e.js",
+    "static/js/2.ce9b4bd8.chunk.js",
+    "static/css/main.6a164508.chunk.css",
+    "static/js/main.32bb38d9.chunk.js"
+  ]
+}
