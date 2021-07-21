@@ -1,0 +1,23 @@
+.Fun{
+    background-image: url("https://www.woodenstreet.com/images/furniture/deal-1.jpg?v1");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:700px;
+}
+.Tagline{
+    font-family: 'Fuggles', cursive;
+    font-size: 95px;
+    color: white;
+    position: absolute;
+    right:5%;
+    
+}
+.Topic{
+    font-family: 'Festive', cursive;
+    font-family: 'Fuggles', cursive;
+    font-weight: 800;
+    font-size: 100px;
+    color:red;
+    position:absolute;
+    right:50%;
+}

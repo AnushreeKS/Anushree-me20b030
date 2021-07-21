@@ -1,0 +1,32 @@
+img{
+    max-width:30%;
+    max-height:30%;
+    
+}
+
+.cs0{
+    align-items: center;
+    margin: 30px;
+    background-image: url('https://c8.alamy.com/comp/BJF3X8/red-tulips-on-white-background-tulips-are-on-yhe-right-side-of-picture-BJF3X8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cs2{
+    padding:40px;
+    font-weight: bold;
+}
+.cs1{
+    position:absolute;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Festive', cursive;
+    font-family: 'Fuggles', cursive;
+    font-weight: 700;
+    font-size: 50px;
+}
+.button{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Festive', cursive;
+    font-family: 'Fuggles', cursive;
+    font-family: 'Tourney', cursive;
+    
+}
